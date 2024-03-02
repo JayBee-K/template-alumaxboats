@@ -6,5 +6,7 @@
 }
 
 @media screen and (max-width: 991px) {
-
+    .contact-block .contact-block_item .contact-item_website {
+        font-size: 1.4em;
+    }
 }
