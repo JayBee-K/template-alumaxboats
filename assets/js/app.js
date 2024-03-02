@@ -301,13 +301,13 @@ const handleSliderPartner = function () {
                     slidesPerView: 6,
                 },
                 768: {
-                    slidesPerView: 2.5,
+                    slidesPerView: 4.5,
                 },
                 375: {
-                    slidesPerView: 1.5,
+                    slidesPerView: 3.5,
                 },
                 320: {
-                    slidesPerView: 1,
+                    slidesPerView: 2,
                 }
             },
             pagination: {
